@@ -1,0 +1,10 @@
+Part 2:
+    * What are all the types of pokemon that a pokemon can have?
+
+
+    * What is the name of the pokemon with id 45?
+
+
+    * How many pokemon are there?
+    * How many types are there?
+    * How many pokemon have a secondary type?
